@@ -1,6 +1,8 @@
 # HOW I LEARN: use users and roles PostgreSQL
 
-For example, I will create a role for CRUD as example with a user.
+[![github](https://img.shields.io/badge/github-writer-green?logo=github)](https://github.com/CupOfCakes)[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor--carvalho/)
+
+
 
 ---
 

@@ -1,5 +1,7 @@
 # HOW I LEARN: connect my code to a remote database
 
+[![github](https://img.shields.io/badge/github-writer-green?logo=github)](https://github.com/CupOfCakes)[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor--carvalho/)
+
 ---
 
 ## Motivation: 

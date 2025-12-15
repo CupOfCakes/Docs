@@ -1,5 +1,7 @@
 ## HOW I DID IT: a Java server with TCP connection
 
+[![github](https://img.shields.io/badge/github-writer-green?logo=github)](https://github.com/CupOfCakes)[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CupOfCakes/card-game)[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor--carvalho/)
+
 ---
 
 ## Motivation: 
@@ -9,8 +11,6 @@ During my Object-Oriented Programming classes at college, which were taught in J
 The idea of creating a TCP server in Java came from this: in addition to applying OOP concepts, I could integrate the project with a database and keep the interface decoupled, allowing it to be developed in another language.
 
 Since the entire environment would initially be local, direct communication via TCP made more sense than creating a complete HTTP API, reducing complexity and allowing me to focus on the server's operation and data flow.
-
-[github link](https://github.com/CupOfCakes/card-game)
 
 ---
 

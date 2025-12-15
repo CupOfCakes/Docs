@@ -1,5 +1,7 @@
 # FastAPI: Criação de API com python
 
+[![github](https://img.shields.io/badge/github-writer-green?logo=github)](https://github.com/CupOfCakes)[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CupOfCakes/Amargor-Da-Vida)[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor--carvalho/)
+
 ---
 
 ## O que é FastAPI?
