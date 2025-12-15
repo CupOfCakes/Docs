@@ -207,5 +207,15 @@ Nesta documentação foram abordados os conceitos fundamentais para a criação 
 
 Com esse conteúdo, já é possível criar e organizar uma API funcional, entendendo como o framework funciona e como estruturar o código de forma clara e eficiente. A partir daqui, é possível evoluir o projeto adicionando novas funcionalidades, como persistência de dados, autenticação e melhorias na validação.
 
-![HatsuneMiku-NaProximaUsoUmaDaTeto.png](../../imagens/end/HatsuneMiku-C#.png)
+---
+
+# Referências e Links
+
+- [Aula do professor Giaretta](https://youtu.be/UXMKOgmQ7zI?si=3kqVsmwL7djpmsVZ)
+
+- [Tutorial oficial da Microsoft sobre Minimal API](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-10.0&tabs=visual-studio)
+
+---
+
+![HatsuneMiku-NaProximaUsoUmaDaTeto.png](../../imagens/end/HatsuneMiku-CSharp.png)
 
