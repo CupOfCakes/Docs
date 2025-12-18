@@ -1,4 +1,6 @@
-# Docker
+# Docker: Guia Inicial
+
+[![github](https://img.shields.io/badge/github-writer-green?logo=github)](https://github.com/CupOfCakes) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor--carvalho/)
 
 ---
 
@@ -129,3 +131,26 @@ docker compose down #Termina a aplicação
 docker compose down --volumes #Termina e deleta os dados
 ```
 
+---
+
+## Volume
+
+**Volumes** são usados para persistir dados de containers. Eles permitem que os dados sobrevivam à remoção de containers e podem ser compartilhados entre vários containers.
+
+Por ser um assunto mais avançado, esta parte foi separada em outro [arquivo](Volumes.md).
+
+---
+
+# Links e referências
+
+[Documentação oficial](https://docs.docker.com/get-started/get-docker/);
+
+[Video do canal The Coding Sloth](https://www.youtube.com/watch?v=DQdB7wFEygo&t=563s);
+
+---
+
+# FIM
+
+![MyRoomReveal](../../imagens/end/MessyRoom.jpeg)
+
+> Imagem do jogo **NEET Girl Date Night**
